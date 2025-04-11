@@ -1,9 +1,7 @@
 <h1 align="center">𝐃𝐀𝐃𝐌𝐀𝐑𝐊 𝐌𝐃</h1>
 <p align="center">  
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THIS IS +DADMARK MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+DADMARK+TECH;RELEASED+03.01.2025" alt="Typing SVG" /></a>
-  
-  </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FF0000&center=true&width=1000&height=200&lines=𝐃𝐀𝐃𝐌𝐀𝐑𝐊-𝐌𝐃-𝐕1.0" alt="Typing SVG" /></a>
+</p>
     <img alt="DADMARK-MD" width="700" height="300" src="https://files.catbox.moe/xscaak.jpg">
 <p align="center">
 <p align="center">
